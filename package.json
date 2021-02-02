@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/leegibsonhoward/gddtester/issues"
   },
-  "homepage": "https://github.com/leegibsonhoward/gddtester#readme"
+  "homepage": "https://github.com/leegibsonhoward/gddtester#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
