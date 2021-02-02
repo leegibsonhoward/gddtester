@@ -1,0 +1,20 @@
+{
+  "name": "gddtester",
+  "version": "1.0.0",
+  "description": "Simple Express app used to create deployments for testing [GithubDeploymentDeleter](https://github.com/leegibsonhoward/GithubDeploymentDeleter)",
+  "main": "./src/server.js",
+  "scripts": {
+    "start": "node .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leegibsonhoward/gddtester.git"
+  },
+  "author": "Lee Howard <leegibsonhoward@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/leegibsonhoward/gddtester/issues"
+  },
+  "homepage": "https://github.com/leegibsonhoward/gddtester#readme"
+}
